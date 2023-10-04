@@ -1,4 +1,4 @@
-Strapi backend för [TrendFusion](https://github.com/Nyman556/trendfusion)
+Strapi Api för [TrendFusion](https://github.com/Nyman556/trendfusion)
 
 1. Ladda ner repon.
 2. npm i
