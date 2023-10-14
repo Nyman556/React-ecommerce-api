@@ -1,4 +1,4 @@
-Strapi Api för [TrendFusion](https://github.com/Nyman556/trendfusion)
+Strapi Api för [React-ecommerce](https://github.com/Nyman556/React-ecommerce)
 
 1. Ladda ner repon.
 2. npm i
